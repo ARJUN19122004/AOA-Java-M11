@@ -18,8 +18,8 @@ An integer n is a power of two, if there exists an integer x such that n == 2x.
 ```
 /*
 
-Developed by: ABINAV SANKAR S
-Register Number: 212222040002
+Developed by: M.ARJUN
+Register Number: 212222040012
 */
 
 
