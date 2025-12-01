@@ -34,8 +34,8 @@ Unlike traditional matrix multiplication which takes O(n3)O(n^3)O(n3) time, Stra
 ## Program:
 ```
 /*
-Developed by: ABINAV SANKAR S
-Register Number:  212222040002
+Developed by: M.ARJUN
+Register Number: 212222040012
 */
 
 import java.util.Scanner;
